@@ -7,7 +7,7 @@ This project demonstrates state management, dynamic rendering, and optional feat
 
 ## Live Demo
 
-**Deployed on Vercel:** [View App](https://av-binvest-task-app.vercel.app/)
+**Deployed on Vercel:** [View App](https://avbinvest-task-app.vercel.app/)
 
 ---
 
